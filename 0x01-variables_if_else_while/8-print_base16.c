@@ -19,5 +19,6 @@ int main(void)
 	for (m = 97; m <= 102; m++)
 	{
 		putchar(n);
-		return (0);
+	}
+	return (0);
 }

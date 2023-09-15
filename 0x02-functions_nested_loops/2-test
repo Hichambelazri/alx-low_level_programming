@@ -1,0 +1,27 @@
+#include <stdio.h>
+/** hello world!
+ * testing my skills
+ * return 0
+*/
+
+int main(void)
+{
+        int n = 97;
+        int m = 65;
+        int o = 36;
+
+        while (n <= 122)
+        {
+                putchar(n);
+                n++;
+        }while(m < 90)
+        {
+                putchar(m);
+                m++;
+        }while(o == 36)
+        {
+                ptuchar(m);
+        }
+        putchar('\n');
+        return (0);
+}
